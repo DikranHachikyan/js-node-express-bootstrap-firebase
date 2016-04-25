@@ -1,0 +1,241 @@
+{
+  "catalog": "Musical CD and DVD Disks",
+  "description": "Musical CD and DVD Disks",
+  "thumbnail": "",
+  "categories": {
+    "pop": {
+      "title": "Pop",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora quod doloremque ullam veritatis at sit, totam eaque sint dolore id quo iusto!",
+      "thumbnail": "pop-category150x150.png"
+    },
+    "rock": {
+      "title": "Rock",
+      "description": "Cumque id, officiis fugiat hic sit tempora et ut laudantium. Omnis commodi tempore optio laboriosam magnam tempora porro sit neque quaerat consequatur cum adipisci, excepturi alias, voluptate provident.",
+      "thumbnail": "rock-category150x150.png"
+    },
+    "dance": {
+      "title": "Dance",
+      "description": "Tempore illo eos cum placeat id fugiat autem doloremque nisi est totam nihil, delectus eligendi reprehenderit ipsam amet a aliquam similique expedita accusamus neque ab mollitia ratione. Assumenda, vel, consectetur.",
+      "thumbnail": "dance-category150x150.png"
+    },
+    "alternative": {
+      "title": "Alternative",
+      "description": "Laboriosam consequuntur tempore quos enim repellat sapiente quas praesentium expedita vel necessitatibus perspiciatis, ullam, voluptatem, id laudantium nemo quae.",
+      "thumbnail": "alternative-category150x150.png"
+    },
+    "folk": {
+      "title": "Folk",
+      "description": "Dicta ea delectus ad exercitationem magni fugit rerum repellendus quia ex. Aperiam provident error rem incidunt aut delectus. Soluta culpa suscipit, maiores totam quidem, asperiores ipsam!",
+      "thumbnail": "folk-category150x150.png"
+    },
+    "indie": {
+      "title": "Indie",
+      "description": "A, distinctio praesentium est? Cumque natus dolorem rerum assumenda iure ducimus, ipsum explicabo quidem a at consectetur eaque obcaecati molestias deleniti, ullam neque nihil quam quia sint itaque nam minima.",
+      "thumbnail": "indie-category150x150.png"
+    },
+    "electronica": {
+      "title": "Electronica",
+      "description": "Numquam quos molestiae consequuntur deserunt tenetur porro sit, sequi hic, dolor quisquam qui illo in soluta nam officia corporis nihil, mollitia, dolores accusamus voluptatibus sapiente. Natus delectus, minima quos eius.",
+      "thumbnail": "electronica-category150x150.png"
+    },
+    "other": {
+      "title": "Other",
+      "description": "Repellat necessitatibus quas maxime eos, sint culpa, magnam veniam doloribus ipsa enim dicta, hic iure quis nulla. Voluptate accusamus quasi suscipit autem velit, non id nam alias? Eos, quas, eum.",
+      "thumbnail": "other-category150x150.png"
+    }
+  },
+  "collections": {
+    "pop": {
+      "MU114": {
+        "id": "MU114",
+        "title": "Rockferry",
+        "artist": "Duffy",
+        "price": "2.99",
+        "artwork": "rockferry.jpg",
+        "description": "Debut album from the young Welsh soul siren."
+      },
+      "MU116": {
+        "id": "MU116",
+        "title": "Elephunk",
+        "artist": "Black Eyed Peas",
+        "price": "2.99",
+        "artwork": "elephunk.jpg",
+        "description": "LA hip hop crew's third album, full throttle funk."
+      },
+      "MU115": {
+        "id": "MU115",
+        "title": "Goodbye Yellow Brick Road",
+        "artist": "Elton John",
+        "price": "4.99",
+        "artwork": "brickroad.jpg",
+        "description": "Original double album now single CD release, reckoned by some to be Sir Elton's finest, from rockers like Satuday Night's Alright for Fighting to the classis ballad Candle in the Wind."
+      }
+    },
+    "rock": {
+      "MU224": {
+        "id": "MU224",
+        "title": "Below the Salt",
+        "artist": "Steeleye Span",
+        "price": "3.49",
+        "artwork": "below_salt.jpg",
+        "description": "Maddy Prior leads on this carefully chosen selection of traditional folk songs."
+      },
+      "MU506": {
+        "id": "MU506",
+        "title": "Abraxas",
+        "artist": "Santana",
+        "price": "1.99",
+        "artwork": "fat.jpg",
+        "description": "Commercial breakthrough album for Santana showcasing their post-Woodstock talent at its best."
+      },
+      "MU223": {
+        "id": "MU223",
+        "title": "Twelve Dreams of Dr Sardonicus",
+        "artist": "Spirit",
+        "price": "6.99",
+        "artwork": "spirit.jpg",
+        "description": "Spitit\\'s final and finest experimental album."
+      },
+      "MU338": {
+        "id": "MU338",
+        "title": "Achtung Baby",
+        "artist": "U2",
+        "price": "1.99",
+        "artwork": "achtung.jpg",
+        "description": "More techno-rock than stadium pop, this album marked a change of direction for U2."
+      },
+      "MU335": {
+        "id": "MU335",
+        "title": "Fisherman's Blues",
+        "artist": "The Waterboys",
+        "price": "2.99",
+        "artwork": "fishermans_blues.jpg",
+        "description": "Going back to their Celtic roots for these folk rockers, backed by fiddles and acoustic guitars."
+      },
+      "MU332": {
+        "id": "MU332",
+        "title": "The Delivery Man",
+        "artist": "Elvis Costello & The Imposters",
+        "price": "7.99",
+        "artwork": "delivery.jpg",
+        "description": "Backed again by the Imposters, this is a concept album featuring a selection of fine guest appearances from the likes of Lucimda Williams."
+      },
+      "MU777": {
+        "id": "MU777",
+        "title": "Dead Man's Suit",
+        "artist": "Jon Allen",
+        "price": "1.95",
+        "artwork": "dead_mans_suit.jpg",
+        "description": "Tuneful soft rock debut with some standout lyrics."
+      }
+    },
+    "dance": {
+      "MU556": {
+        "id": "MU556",
+        "title": "The Owl of Minerva",
+        "artist": "South Central",
+        "price": "10.9",
+        "artwork": "fat.jpg",
+        "description": "Ground breaking collection from Brighton based team, previously only available on Vinyl."
+      }
+    },
+    "alternative": {
+      "MU654": {
+        "id": "MU654",
+        "title": "Surfer Rosa",
+        "artist": "Pixies",
+        "price": "3.55",
+        "artwork": "surfer_rosa.jpg",
+        "description": "Typically abrasive selection of guitar and vocal combinationsClassic."
+      },
+      "MU501": {
+        "id": "MU501",
+        "title": "Neon Bible",
+        "artist": "The Arcade Fire",
+        "price": "3.99",
+        "artwork": "neon.jpg",
+        "description": "Second release from the Canadian folk rockers, easily passing the predecessor in scope and depth."
+      },
+      "MU658": {
+        "id": "MU658",
+        "title": "Separation Sunday",
+        "artist": "The Hold Steady",
+        "price": "4.59",
+        "artwork": "separation.jpg",
+        "description": "Play it loud - original take on classic rock. Recommended."
+      }
+    },
+    "folk": {
+      "MU989": {
+        "id": "MU989",
+        "title": "Blue",
+        "artist": "Joni Mitchell",
+        "price": "3.99",
+        "artwork": "blue.jpg",
+        "description": "Introspective and highly personal, Joni Mitchell bares  her soul on this all time classic."
+      },
+      "MU327": {
+        "id": "MU327",
+        "title": "Solid Air",
+        "artist": "John Martyn",
+        "price": "5.95",
+        "artwork": "solid.jpg",
+        "description": "Landmark album crossing from the folky to free form, jazz improvisation. Conatining the all time great May You Never."
+      }
+    },
+    "indie": {
+      "MU321": {
+        "id": "MU321",
+        "title": "Couldn't Stand The Weather",
+        "artist": "Stevie Ray Vaughan",
+        "price": "3.99",
+        "artwork": "couldnt_stand_weather.jpg",
+        "description": "The second album from the late and almented Vaughan, consolidating his position as a leading light of modern blues."
+      }
+    },
+    "electronica": {
+      "MU411": {
+        "id": "MU411",
+        "title": "Enjoy The Melodic Sunshine",
+        "artist": "Cosmic Rough Riders",
+        "price": "5.99",
+        "artwork": "cosmic.jpg",
+        "description": "Hard to believe this Glasgow group can produce the sunniest West Coast rock and best harmonies since The Byrds"
+      },
+      "MU111": {
+        "id": "MU111",
+        "title": "Live At Folsom Prison",
+        "artist": "Johnny Cash",
+        "price": "3.59",
+        "artwork": "live_folsom_prison.jpg",
+        "description": "Quintessential Cash, recorded live  at Folsom Prison. With his wife June Carter Cash."
+      }
+    },
+    "other": {
+      "MU555": {
+        "id": "MU555",
+        "title": "Live at the Apollo",
+        "artist": "James Bitemn",
+        "price": "6.59",
+        "artwork": "live_appolo.jpg",
+        "description": "One of the greatest live albums of all time, from a performer at the peak of his career. "
+      },
+      "MU101": {
+        "id": "MU101",
+        "title": "Hold Your Colour",
+        "artist": "Pendulum",
+        "price": "4.99",
+        "artwork": "hold.jpg",
+        "description": "Classic debut album"
+      },
+      "MU877": {
+        "id": "MU877",
+        "title": "The Fat Of The Land",
+        "artist": "The Prodigy",
+        "price": "3.29",
+        "artwork": "fat.jpg",
+        "description": "Third studio album, featuring the singles Firestarterand Breathe"
+      }
+    }
+  }
+}
